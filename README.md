@@ -42,13 +42,13 @@ Here's a peek at some of the technologies I work with:
 
 ## 📫 Let's Connect!
 
-Feel free to reach out if you want to chat about tech, share ideas, or even play a game of chess! You can find me on [LinkedIn](https://www.linkedin.com/in/arielbravo) or shoot me an email at [github_readme@privado.chat](mailto:github_readme@privado.chat).
+Feel free to reach out if you want to chat about tech, share ideas, or even play a game of chess! You can find me on [LinkedIn](https://www.linkedin.com/in/arielbravo) or shoot me an [email](mailto:github_readme@privado.chat).
 
 Thanks for stopping by, and happy coding! 🚀
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+_“Code is like humor. When you have to explain it, it’s bad.” – [Cory House](https://x.com/housecor/status/400479246713229312)_ 
 
 ---
 
